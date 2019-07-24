@@ -11,20 +11,29 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
 [Link](url) and ![Image](src)
 ```
+
+# Sample heading 1
+## Sample heading 2
+This paragraph has some words that are in **bold** and some that are in *italics*. 
+
+### Sample heading 3
+Unordered list of fruit:
+* Orange
+* Apple
+  * Granny Smith
+  * Golden Delicious
+* Pear
+
+Ordered list of cheeses:
+
+1. Cheddar
+1. Cornish Yarg
+1. Cheddar
+   1. Ise of Mull
+   1. Montgomery
+1. Baron Bigod
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
